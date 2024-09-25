@@ -52,9 +52,5 @@
     "version" : "0.1",
     "type" : "job"
   },
-  "relatedItems" : [ {
-    "id" : "MDM",
-    "version" : "Latest",
-    "type" : "routine"
-  } ]
+  "relatedItems" : [ ]
 } ]
